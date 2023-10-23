@@ -1,8 +1,6 @@
-
-![Web](https://github.com/Onur-Ardic/Onur-Ardic/assets/121682309/e0f23f74-5dda-4538-9f93-f40cd28d016c)
-
+![onuryeni](https://github.com/Onur-Ardic/Onur-Ardic/assets/121682309/59f13527-ff93-4d96-9b30-8ef8cbb8ca54)
 <h1 align="center">Hi 👋, I'm Onur Ardıç</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
