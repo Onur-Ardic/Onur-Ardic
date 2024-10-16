@@ -14,6 +14,14 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952wco4m6tggjpwk465zbujs9atxywaxffyac562fa5&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
+               || Gelecek, alıştığımız şeylerden farklıdır. Sürekli gelişim ve değişim
+
+               içerisinde olarak yüksek motivasyon ve güçlü iletişimle yeni tohumlar
+
+               ekmeli, insanların içerisindeki potansiyeli ortaya çıkararak başarıya
+
+               beraber yürümeliyiz.
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
